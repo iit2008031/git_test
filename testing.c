@@ -12,7 +12,7 @@ int fib(int n)
 
 int main()
 {
-	printf("Hello Worls");
+	printf("Hello World");
 	printf("%d",fib(34));
 	return 0;
 }
