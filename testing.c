@@ -13,6 +13,6 @@ int fib(int n)
 int main()
 {
 	printf("Hello World");
-	printf("%d",fib(34));
+	printf("%d",fib(50));
 	return 0;
 }
